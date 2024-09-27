@@ -1,0 +1,16 @@
+---
+title: "2024demo"
+format: html
+date: last-modified
+author: ○○
+---
+
+## 〇〇大学-〇〇大学合同ゼミ
+
+ここから下にゼミの内容を書く
+
+```{r}
+1 + 1
+```
+
+"Q:\\1_大学\\2024\\専門演習\\2024demo\\2024demo.Rproj"
